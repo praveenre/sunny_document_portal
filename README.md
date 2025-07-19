@@ -51,4 +51,32 @@ git push
 
 ```
 git clone https://github.com/sunnysavita10/document_portal.git
+<<<<<<< HEAD
 ```
+=======
+```
+
+### minimum requirement for this project
+
+1. LLM Model ## groq(freely), openai(paid), gemini(15days free accesss), claude(paid), huggingface(freely),ollama(local setup)
+
+2. Embedding model ## openai, hf, gemini
+
+3. vectordatabase ##inmemory ##ondisk ##cloudbased
+
+
+##GROQ API KEY LINK
+```
+https://console.groq.com/keys
+
+https://console.groq.com/docs/overview
+```
+
+### GEMINI API KEY
+```
+https://aistudio.google.com/apikey
+
+https://ai.google.dev/gemini-api/docs/models
+```
+   
+>>>>>>> 95e88f6 (notebook updated with llm and embedding model)
