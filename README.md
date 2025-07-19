@@ -52,4 +52,3 @@ git push
 ```
 git clone https://github.com/sunnysavita10/document_portal.git
 ```
->>>>>>> 659720b (command update in readme)
