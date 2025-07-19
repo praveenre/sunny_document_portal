@@ -39,11 +39,13 @@ git commit -m "<write your commit message>"
 # Push to remote (after adding remote origin)
 git push
 
+# Cloning the repository
 git clone https://github.com/sunnysavita10/document_portal.git
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 ```
+<<<<<<< HEAD
 =======
 ```
 =======
@@ -52,6 +54,8 @@ git clone https://github.com/sunnysavita10/document_portal.git
 ```
 >>>>>>> 629dd59 (readme udapted)
 
+=======
+>>>>>>> 417da55 (updated)
 ## Minimum Requirements for the Project
 
 ### LLM Models
