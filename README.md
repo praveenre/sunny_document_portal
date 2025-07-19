@@ -6,7 +6,7 @@
 # Project Setup Guide
 >>>>>>> 3e19b4d (markdown updated)
 
-## 1. Create Project Folder and Environment Setup (Windows CMD)
+## Create Project Folder and Environment Setup
 
 ```bash
 # Create a new project folder
@@ -42,11 +42,15 @@ git push
 git clone https://github.com/sunnysavita10/document_portal.git
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ```
 =======
 ```
 =======
 >>>>>>> 3e19b4d (markdown updated)
+=======
+```
+>>>>>>> 629dd59 (readme udapted)
 
 ## Minimum Requirements for the Project
 
