@@ -76,7 +76,7 @@ git clone https://github.com/sunnysavita10/document_portal.git
 - **On-Disk**
 - **Cloud-Based**
 
-## API Keys
+### API Keys
 
 ### GROQ API Key
 - [Get your API Key](https://console.groq.com/keys)  
