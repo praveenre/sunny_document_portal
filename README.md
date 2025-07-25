@@ -1,10 +1,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ## Commands needs to follow
 =======
 # Project Setup Guide
 >>>>>>> 3e19b4d (markdown updated)
+=======
+# Project Setup Guide
+>>>>>>> 2154bd35984f1770d974d0684c07699396c2f772
 
 ## Create Project Folder and Environment Setup
 
@@ -44,6 +48,7 @@ git clone https://github.com/sunnysavita10/document_portal.git
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ```
 <<<<<<< HEAD
 =======
@@ -56,6 +61,9 @@ git clone https://github.com/sunnysavita10/document_portal.git
 
 =======
 >>>>>>> 417da55 (updated)
+=======
+```
+>>>>>>> 2154bd35984f1770d974d0684c07699396c2f772
 ## Minimum Requirements for the Project
 
 ### LLM Models
@@ -76,7 +84,11 @@ git clone https://github.com/sunnysavita10/document_portal.git
 - **On-Disk**
 - **Cloud-Based**
 
+<<<<<<< HEAD
 ### API Keys
+=======
+## API Keys
+>>>>>>> 2154bd35984f1770d974d0684c07699396c2f772
 
 ### GROQ API Key
 - [Get your API Key](https://console.groq.com/keys)  
@@ -87,6 +99,7 @@ git clone https://github.com/sunnysavita10/document_portal.git
 - [Gemini Documentation](https://ai.google.dev/gemini-api/docs/models)
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ##GROQ API KEY LINK
 ```
@@ -105,3 +118,5 @@ https://ai.google.dev/gemini-api/docs/models
 >>>>>>> 95e88f6 (notebook updated with llm and embedding model)
 =======
 >>>>>>> 3e19b4d (markdown updated)
+=======
+>>>>>>> 2154bd35984f1770d974d0684c07699396c2f772
