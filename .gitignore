@@ -7,3 +7,5 @@ logs/
 *.pyc
 faiss_index/
 llmops/
+main_archive/
+data/
