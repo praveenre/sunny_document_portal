@@ -1,0 +1,7 @@
+prefix=/home/debprav/Documents/AI-ML-Progs/Krish-Projects/sunny_document_portal/llmops
+includedir=${prefix}/include
+ 
+Name: RandrProto
+Description: Randr extension headers
+Version: 1.6.0
+Cflags: -I${includedir}

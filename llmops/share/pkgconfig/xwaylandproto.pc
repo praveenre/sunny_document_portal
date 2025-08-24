@@ -1,0 +1,7 @@
+prefix=/home/debprav/Documents/AI-ML-Progs/Krish-Projects/sunny_document_portal/llmops
+includedir=${prefix}/include
+
+Name: XwaylandProto
+Description: Xwayland extension headers
+Version: 1.0
+Cflags: -I${includedir}

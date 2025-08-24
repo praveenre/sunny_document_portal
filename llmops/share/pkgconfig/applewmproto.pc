@@ -1,0 +1,7 @@
+prefix=/home/debprav/Documents/AI-ML-Progs/Krish-Projects/sunny_document_portal/llmops
+includedir=${prefix}/include
+ 
+Name: AppleWMProto
+Description: AppleWM extension headers
+Version: 1.4.2
+Cflags: -I${includedir}

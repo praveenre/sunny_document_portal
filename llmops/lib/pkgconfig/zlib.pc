@@ -1,0 +1,13 @@
+prefix=/home/debprav/Documents/AI-ML-Progs/Krish-Projects/sunny_document_portal/llmops
+exec_prefix=/home/debprav/Documents/AI-ML-Progs/Krish-Projects/sunny_document_portal/llmops
+libdir=/home/debprav/Documents/AI-ML-Progs/Krish-Projects/sunny_document_portal/llmops/lib
+sharedlibdir=/home/debprav/Documents/AI-ML-Progs/Krish-Projects/sunny_document_portal/llmops/lib
+includedir=/home/debprav/Documents/AI-ML-Progs/Krish-Projects/sunny_document_portal/llmops/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

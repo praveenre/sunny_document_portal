@@ -1,0 +1,7 @@
+prefix=/home/debprav/Documents/AI-ML-Progs/Krish-Projects/sunny_document_portal/llmops
+includedir=${prefix}/include
+
+Name: VideoProto
+Description: Video extension headers
+Version: 2.3.3
+Cflags: -I${includedir}

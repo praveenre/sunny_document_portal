@@ -1,0 +1,8 @@
+prefix=/home/debprav/Documents/AI-ML-Progs/Krish-Projects/sunny_document_portal/llmops
+includedir=${prefix}/include
+
+Name: FixesProto
+Description: X Fixes extension headers
+Version: 6.1
+Cflags: -I${includedir}
+Requires: xextproto >= 7.0.99.1

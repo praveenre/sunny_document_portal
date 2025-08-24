@@ -1,0 +1,11 @@
+prefix=/home/debprav/Documents/AI-ML-Progs/Krish-Projects/sunny_document_portal/llmops
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/home/debprav/Documents/AI-ML-Progs/Krish-Projects/sunny_document_portal/llmops/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.4
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}
